@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: mxcz213
+subtitle: 勤学如春起之苗，不见其增，日有所长；辍学如磨刀之石，不见其亏，日有所损。
+description: 
 keywords:
-author: John Doe
+author: mxcz213
 language: en
 timezone:
 
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
